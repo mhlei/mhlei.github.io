@@ -1,1 +1,4 @@
-# mhlei.github.io
+# Home Page of Minghuan Lei.
+
+## links for study
+[edit this page](https://github.com/mhlei/mhlei.github.io/edit/master/README.md)
